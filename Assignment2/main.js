@@ -24,6 +24,7 @@ console.log("Product of myNumber and myOtherNumber: " + myTotal);
 //Question 5
 console.log("Question 5");
 let myName = "Avery";
+let x = myName.length;
 let myCombo = String(myNumber + myOtherNumber);
 console.log("Type of myName: " + typeof(myName));
 console.log("Value of myName: " + myName);
